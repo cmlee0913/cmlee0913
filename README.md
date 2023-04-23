@@ -45,7 +45,7 @@
 	<a href="https://minlogs.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="https://skitter-enquiry-b90.notion.site/Welcome-Mlog-f526032c89dd498ba67191cadd04ff34">
+	<a href="https://skitter-enquiry-b90.notion.site/Welcome-Mlog-Backend-Unity-f526032c89dd498ba67191cadd04ff34">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
